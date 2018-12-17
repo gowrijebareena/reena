@@ -1,7 +1,7 @@
-a=int input "Enter the number"
+a=int input "Enter a number"
 if a>0:
-   print "positive"
+  print "positive"
 elif a==0:
-   print "zero"
+  print "zero"
 else:
-   print "negative"
+  print "negative"
