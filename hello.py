@@ -5,5 +5,5 @@ int main() {
   for (i=o;i<n; i++) {
       count << "hello world \n";
   }
-  return 0 ;
+  return 0;
 }
