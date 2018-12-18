@@ -9,4 +9,4 @@ for num in range(lower, upper + 1):
        sum += digit ** order
        temp 
   if num == sum:
-      print(num)
+        print (num)
