@@ -1,5 +1,5 @@
-stuct eleCount {
+struct eleCount {
          int element;
          int count;
 };
-stuct element temp{};
+struct element temp{};
