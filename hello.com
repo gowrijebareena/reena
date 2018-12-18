@@ -1,4 +1,4 @@
-using namespase std;
+using namespace std;
 int main() {
   int i, n;
   int >> n;
