@@ -5,7 +5,7 @@ upper=1000
       if num > 1:
         for i inrange(2,num):
           if (num%i)==0:
-            break
+          break
       else:
           print (num)
     
